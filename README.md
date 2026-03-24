@@ -1,5 +1,16 @@
-<a href="/">
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yzcdpg&theme=github">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=yzcdpg&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yzcdpg&layout=compact&exclude_repo=Android_Homework,rinchannowww.github.io&langs_count=8" />
-</a>
+## Hi there 👋
+
+I'm **yzcdpg**, an idealist, cryptographer, programmer. Coding for a world with more freedom and privacy.
+
+
+- 🌐 Built a series of **decentralized** network infrastructures. 
+- 🔒 Written some **zero-knowledge proof** and other cryptographic libraries.
+- 🤖 Building **AI** and cool things.
+- 🍁 Planted many plants and flowers in the **garden**.
+- ⚡ Like and using **Rust** and also using Python, Solidity, Javascript, Dart(Flutter), Elixir, Ruby... :) 
+
+I am currently working as an **open source developer**.
+
+
+
+
